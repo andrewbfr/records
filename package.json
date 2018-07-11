@@ -1,0 +1,25 @@
+{
+  "name": "inquireres6cli",
+  "version": "1.0.0",
+  "description": "CLI for daily builds",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewbfr/records.git"
+  },
+  "author": "moi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewbfr/records/issues"
+  },
+  "homepage": "https://github.com/andrewbfr/records#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^6.0.0",
+    "shelljs": "^0.8.2"
+  }
+}
